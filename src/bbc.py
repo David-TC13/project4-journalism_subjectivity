@@ -69,7 +69,7 @@ def descriptives(dict_article_bbc):
     russia=[articles.lower().count('russia') for articles in dict_article_bbc.values()]
     putin = [articles.lower().count('putin') for articles in dict_article_bbc.values()]
     zelensky= [articles.lower().count('zelensky') for articles in dict_article_bbc.values()]
-    dict_length= {'polarity':lst_polarity,'subjetivity':lst_subjectivity,'length':length,'ukraine':ukraine,'war':war, 'russia':russia,'putin':putin,'zelensky':zelensky}
+    dict_length= {'polarity':lst_polarity,'subjectivity':lst_subjectivity,'length':length,'ukraine':ukraine,'war':war, 'russia':russia,'putin':putin,'zelensky':zelensky}
     df_descriptive= pd.DataFrame(dict_length)
     return df_descriptive
 
