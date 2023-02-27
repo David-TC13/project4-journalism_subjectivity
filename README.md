@@ -25,7 +25,7 @@ Example of this was seen during the US presidential election, or, recently, with
 
 - **Justification**
 
-BBC is one of the world-wide most known boradcasting corporations. Founded in 1922, became a reference of information in Occident. [BBC](https://www.bbc.co.uk/aboutthebbc/)
+BBC is one of the world-wide most known boradcasting corporations. Founded in 1922, became a reference of information in Occident ([BBC](https://www.bbc.co.uk/aboutthebbc/)).
 
 On the other side, Al-Jazeera is the reference on broadcasting, based in Qatar, for information in the arab countries. 
 
@@ -60,6 +60,8 @@ Finally, we checked the key words, finding as significant result that Russia is 
 
 ## **4. Conclusions**
 ![](https://media.tenor.com/6TlxySjAAN0AAAAd/how-is-any-of-this-relevant-lawyer.gif)
+
+
 The war is a fatal socio-economical event, not just local, even global and within the new paradigm of interconnected society, every imbalance affect the rest of the ecosystem of the society. In this aspect, it's been develope a new kind of war which involves how to influence as many people as possible to obtain the purpose; in this sense, broadcast corporation have an active rol.
 
 We can see that, for example, BBC and Al-Jazeera became part of this "game"; the proper use of a word, or the repetition of it, can become fundamental to transmit the idea underlying on a news, or, the opposite, the lack of them, can match with trying to hide some details of a news giving importance to another ones.
@@ -75,4 +77,4 @@ Finally, in subjectivity terms, there's not much discrepancy in between both bro
 
 ## **5. Disclaimer**
 
-This project is being done with libraries with a specific nomenclator, which, in between the availables, is one of the most reliable. Even that, the accuracy obtained is one of the highest, this means, the possibility of infer in not accurate conclusions. [Accuracy reference](https://neptune.ai/blog/sentiment-analysis-python-textblob-vs-vader-vs-flair)
+This project is being done with libraries with a specific nomenclator, which, in between the availables, is one of the most reliable. Even that, the accuracy obtained is one of the highest, this means, the possibility of infer in not accurate conclusions ([Accuracy reference](https://neptune.ai/blog/sentiment-analysis-python-textblob-vs-vader-vs-flair)).
