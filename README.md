@@ -45,6 +45,8 @@ Other point, by using sentiment analysis, we wanted to include in this DF the su
 
 The resulting DF had an issue: we counted the key words on each article and store it, but, to be able to ponderate their relevance on each article we had to divide this number by the number of words in each article and multiply per 100 because of the small result, using MySQL.
 
+To visualise the data extracted, we used Tableau, aggregating as required the hypothesis.
+
 - **Results**
 
 After the analysis we found the subjectivity average in between both broadcasting is around 0.32 (on a scale from 0-1), lying on that number the average of subjectivity of BBC vs. Al-Jazeera's which is slightly lower.
