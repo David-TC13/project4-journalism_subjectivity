@@ -8,11 +8,11 @@ Geopolitically talking there had been countries which they decided to ally to 'o
 
 Meanwhile, others with more alligned with the former URSS, became support for the russian federation like Belarus, Turkmenistan in between others ([Turkmenistan](https://en.wikipedia.org/wiki/Turkmenistan)).
 
-During this dissolution one of the hardest negotiation was to compound the Ukraine territory; zones like Odesa,which was a main marine base for the URSS, also, was a geostrategic point to connect the old URSS with the rest of the world([Odesa strategic point](https://www.academia.edu/367981/Strategic_Geopolitical_Significance_of_Odessa)).
+During this dissolution one of the hardest negotiation was to compound the Ukraine territory; zones like Odesa,which was a main marine base for the URSS, also, was a geostrategic point to connect the old URSS with the rest of the world ([Odesa strategic point](https://www.academia.edu/367981/Strategic_Geopolitical_Significance_of_Odessa)).
 
 For this reason, in 2014 in a context of Maidan protests, started a pro-russian movement as a counterpart of the first one, which ended up declaring "Odesa Autonomous Republic" by the russian federation. After lots of controversies surronding that event, didn't get cleared the responsabilities of what happened, murderers or, if there was some russian influence ([Odesa clashes](https://en.wikipedia.org/wiki/2014_Odesa_clashes)).
 
-Aftermath of Odessa events, other areas of Ukraine like Donetsk scalated on kind of a civil war between the ukranian government and pro-russian independentists concluding on a war in between Russia and Ukraine which continues until the present([Ukraine war](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)).
+Aftermath of Odessa events, other areas of Ukraine like Donetsk scalated on kind of a civil war between the ukranian government and pro-russian independentists concluding on a war in between Russia and Ukraine which continues until the present ([Ukraine war](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)).
 
 ## **2. Other ways of war**
 On a society of the information and web 2.0. transforming to web 3.0., the world is becoming more interconnected and, like a butterfly effect, the information and, more important, the misinformation is becoming crucial on any conflict. Thus, governments can "manipulate" to get support national and international to get involve on their strategies. 
@@ -31,13 +31,13 @@ On the other side, Al-Jazeera is the reference on broadcasting, based in Qatar, 
 
 From the geopolitical point of view, BBC, we think it represents the Occident-NATO interests, so, the news they publish would have intention to influence the reader on this scope.
 
-On the other side, Al-Jazeera, we thought it could be the closest approach for "pro-russian" broadcasting because of the influence that Russia had arabic business([wikipedia](https://en.wikipedia.org/wiki/Russia_and_the_Middle_East)), as, in Europe, since the war started, the main broadcast russian agencies were banned ([EU banned Russian Broadcasting corp](https://www.consilium.europa.eu/en/press/press-releases/2022/03/02/eu-imposes-sanctions-on-state-owned-outlets-rt-russia-today-and-sputnik-s-broadcasting-in-the-eu/)).
+On the other side, Al-Jazeera, we thought it could be the closest approach for "pro-russian" broadcasting because of the influence that Russia had in arabic business([wikipedia](https://en.wikipedia.org/wiki/Russia_and_the_Middle_East)), as, in Europe, since the war started, the main broadcast russian agencies were banned ([EU banned Russian Broadcasting corp](https://www.consilium.europa.eu/en/press/press-releases/2022/03/02/eu-imposes-sanctions-on-state-owned-outlets-rt-russia-today-and-sputnik-s-broadcasting-in-the-eu/)).
 
 - **Methods**
 
 To check the influence of their scopes according to the war, we webscrapped BBC's and Al-Jazeera's websites using Selenium through python.
 
-To do so, we made Selenium to look for ukraine news (clicking to the link corresponding to "Ukraine war" in their main website), store the links and download the content of them on a dataframe(DF, from now onwards).
+To do so, we made Selenium to look for ukraine news (clicking to the link corresponding to "Ukraine war" in their main website), store the links and download the content of them on a dataframe (DF, from now onwards).
 
 Once created this first DF, the next step was to extract the information we wanted; in this step we got what we considered "key words" of this topic: war, Ukraine, Russia, Zelensky, Putin; the porpose of it is to check the correlation of using those words according what we expect they "support" in this two block band war: Ukraine or Russia.
 
@@ -66,7 +66,7 @@ Finally, we checked the key words, finding as significant result that Russia is 
 
 The war is a fatal socio-economical event, not just local, even global and within the new paradigm of interconnected society, every imbalance affect the rest of the ecosystem of the society. In this aspect, it's been develope a new kind of war which involves how to influence as many people as possible to obtain the purpose; in this sense, broadcast corporation have an active rol.
 
-We can see that, for example, BBC and Al-Jazeera became part of this "game"; the proper use of a word, or the repetition of it, can become fundamental to transmit the idea underlying on a news, or, the opposite, the lack of them, can match with trying to hide some details of a news giving importance to another ones.
+We can see that, for example, BBC and Al-Jazeera became part of this "game"; the proper use of a word, the repetition of it, can become fundamental to transmit the idea underlying on a news, or,instead, the opposite, the lack of them, can match with trying to hide some details of a news giving importance to another ones.
 
 In this case, misusing the "main actors's name" could be interpreted as a way to not to create "heroes and villains" war, putting focus in two fronts : Ukraine and Russia. 
 
