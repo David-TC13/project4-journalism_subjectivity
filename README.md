@@ -39,7 +39,7 @@ To check the influence of their scopes according to the war, we webscrapped BBC'
 
 To do so, we made Selenium to look for ukraine news (clicking to the link corresponding to "Ukraine war" in their main website), store the links and download the content of them on a dataframe(DF, from now onwards).
 
-Once created this first DF, the next step was to extract the information we wanted; in this step we got what we considered "key words" of this topic: war, ukraine, Zelensky, Putin; the porpose of it is to check the correlation of using those words according what we expect they "support" in this two block band war: Ukraine or Russia.
+Once created this first DF, the next step was to extract the information we wanted; in this step we got what we considered "key words" of this topic: war, Ukraine, Russia, Zelensky, Putin; the porpose of it is to check the correlation of using those words according what we expect they "support" in this two block band war: Ukraine or Russia.
 
 Other point, by using sentiment analysis, we wanted to include in this DF the subjectivity and porality applied to the news (as part of misiformation, trying to evoke emotions to the reader instead of basing the news in facts).
 
